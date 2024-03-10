@@ -1,0 +1,20 @@
+{
+  "name": "evm-query-example-2",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "atomicals-js-master": "^0.1.48",
+    "ethers": "^6.11.1",
+    "evm-query-example": "^1.1.0",
+    "evm-wallet-example-2": "^1.0.1",
+    "ierc-miner-js": "^1.1.0",
+    "tea-demo-one": "^1.0.1"
+  }
+}
